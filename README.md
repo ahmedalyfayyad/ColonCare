@@ -1,2 +1,1 @@
-# ColonCare
-colon care app for univ project
+The project aims to use deep learning techniques to develop a system that processes and analyzes colon medical imaging to detect possible health issues. The system relies on pre-trained AI models to extract important features from images, such as abnormalities or unusual patterns.
